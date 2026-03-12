@@ -1,2 +1,2 @@
 # PROJECTS
-Data Analysis
+EDA
